@@ -11,8 +11,10 @@ merging, conflict resolution, and commit history manipulation.
  
 ## Project Structure 
 The repository initially contains the following files: 
- - readme.md 
- - Additional files may be added during the examination 
+- readme.md 
+- This is GitHub Example Project 
+- Additional files may be added during the examination  
  
 Each file must be properly tracked using Git. 
- --- #git-exam-C2603L6349
+ --- 
+
